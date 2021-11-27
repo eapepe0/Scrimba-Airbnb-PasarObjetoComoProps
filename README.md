@@ -1,2 +1,2 @@
-# Scrimba-Airbnb-PasarObjetoComoProps
+# ejercicio-Scrimba-react-Airbnb-render-condicional
 Created with CodeSandbox
